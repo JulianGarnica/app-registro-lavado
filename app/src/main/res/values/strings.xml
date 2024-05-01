@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LavadoraMasterApp</string>
+    <string name="clientes_titulo">Administración de clientes</string>
+    <string name="vehiculos_titulo">Administración de vehículos</string>
+    <string name="servicios_titulo">Administración de servicios</string>
+    <string name="registrosLavados_titulo">Administración de registros de lavados</string>
+</resources>
